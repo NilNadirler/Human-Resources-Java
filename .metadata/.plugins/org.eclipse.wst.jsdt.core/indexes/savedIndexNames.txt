@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\javacamp\hrms\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2033868307.index
+38195240.index
+4242737461.index
+3352293429.index
+2339996521.index
+2918920259.index
